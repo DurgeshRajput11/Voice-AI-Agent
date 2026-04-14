@@ -1,0 +1,28 @@
+# Core Dependencies
+streamlit==1.31.0
+python-dotenv==1.0.0
+
+# Audio Processing
+sounddevice==0.4.6
+soundfile==0.12.1
+pydub==0.25.1
+
+# Speech-to-Text
+transformers==4.36.0
+torch==2.1.0
+accelerate==0.25.0
+
+# LLM Interaction
+ollama==0.1.6
+requests==2.31.0
+
+# File Operations
+pathlib==1.0.1
+
+# Optional: For API fallback
+openai==1.6.1
+groq==0.4.0
+
+# Utility
+numpy==1.24.3
+openai-whisper
